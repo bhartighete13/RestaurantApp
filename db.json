@@ -1,0 +1,80 @@
+{
+  "resto": [
+    {
+      "name": "Asha and Usha Restaurant",
+      "Address": "Thane sect 11",
+      "mobile": "9987654543",
+      "email": "Asha.resto@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Jyuti Restaurant",
+      "Address": "Thane sect 10 navi mumbai",
+      "mobile": "9987654543",
+      "email": "jyuti.resto@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Anand Food Cafe",
+      "Address": "Airoli",
+      "mobile": "99876564543",
+      "email": "anand@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Testy Lunch center",
+      "Address": "Airoli",
+      "mobile": "9987678909",
+      "email": "tasty.gmail.com",
+      "id": 6
+    },
+    {
+      "name": "JC Resto",
+      "Address": "",
+      "mobile": "888801111",
+      "email": "jcresto@gmail.com",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "name": "bharti",
+      "email": "bharti@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "Meena",
+      "email": "meena@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "Jaya",
+      "email": "Jaya@gmail.com",
+      "password": "654",
+      "id": 3
+    },
+    {
+      "name": "Jitendra",
+      "email": "Jitendra@gmail.com",
+      "password": "321",
+      "id": 4
+    },
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "321",
+      "id": 5
+    },
+    {
+      "name": "Jeevanesh",
+      "email": "jc@gmail.com",
+      "password": "Admin@123",
+      "id": 6
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
